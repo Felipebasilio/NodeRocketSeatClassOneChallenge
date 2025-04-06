@@ -20,7 +20,6 @@ This project is a simple Task Management API developed using Node.js. It provide
 - `PUT /tasks/:id`: Update a task by its ID. Allows partial updates of `title` or `description`.
 - `DELETE /tasks/:id`: Delete a task by its ID.
 - `PATCH /tasks/:id/complete`: Toggle a task's completion status.
-- `POST /tasks/import`: Import tasks from a CSV file.
 
 ### Technologies Used
 
